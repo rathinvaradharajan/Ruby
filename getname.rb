@@ -8,4 +8,4 @@ last_name = gets
 puts "Your name is: "+first_name+ last_name
 puts "Enter your favourite color"
 color = gets
-puts "your favourite color is "+color
+puts "your fav color is "+color
